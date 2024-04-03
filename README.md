@@ -24,7 +24,7 @@ A simple Pomodoro timer application built with Python to help boost productivity
 4. To stop the timer, Press `Reset`.
 
 ## 
-![Timer screen](https://github.com/GameDevMitchell/28-Pomodromo-Timer/assets/146736445/f28e7639-65ad-49cb-bfc8-2b4b18526fb4)
+ ![Timer screen](https://github.com/GameDevMitchell/28-Pomodromo-Timer/assets/146736445/f28e7639-65ad-49cb-bfc8-2b4b18526fb4)
 
 
 ## contact
