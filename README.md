@@ -23,6 +23,10 @@ A simple Pomodoro timer application built with Python to help boost productivity
 3. The timer will run through each work and break interval and display status messages accordingly.
 4. To stop the timer, Press `Reset`.
 
+## 
+![Timer screen](https://github.com/GameDevMitchell/28-Pomodromo-Timer/assets/146736445/f28e7639-65ad-49cb-bfc8-2b4b18526fb4)
+
+
 ## contact
 
 If you have any questions or feeedback, please contact me at: mitchellogbo@gmail.com.
