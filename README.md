@@ -34,7 +34,7 @@ By applying the Pomodoro Technique, you can make the most of your time and get m
 
 1. Clone this repository or download and extract the .zip file
 2. Navigate to the project directory.
-3. Run the main Python script using the command: `main.py`
+3. Run the main Python script using the command: `python3 main.py`
 
 ## Usage
 
@@ -49,4 +49,4 @@ By applying the Pomodoro Technique, you can make the most of your time and get m
 
 ## contact
 
-If you have any questions or feeedback, please contact me at: mitchellogbo@gmail.com.
+If you have any questions or feedback, please contact me at: mitchellogbo@gmail.com.
