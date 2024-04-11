@@ -46,7 +46,3 @@ By applying the Pomodoro Technique, you can make the most of your time and get m
 ## demo
  ![Timer screen](https://github.com/GameDevMitchell/28-Pomodromo-Timer/assets/146736445/f28e7639-65ad-49cb-bfc8-2b4b18526fb4)
 
-
-## contact
-
-If you have any questions or feedback, please contact me at: mitchellogbo@gmail.com.
